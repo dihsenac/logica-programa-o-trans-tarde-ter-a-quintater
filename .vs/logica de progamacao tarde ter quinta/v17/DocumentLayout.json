@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{673A45F7-1303-4EAE-9549-F84562727ADC}|ex04\\ex04.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673A45F7-1303-4EAE-9549-F84562727ADC}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90A447AA-ADCE-4390-AB5A-77D126CB92EB}|ex03\\ex03.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A447AA-ADCE-4390-AB5A-77D126CB92EB}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:15:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
               "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex03\\Program.cs",
               "RelativeToolTip": "ex03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T17:59:48.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "ex02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:48:23.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T17:48:23.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "ex01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:47:34.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T16:47:34.865Z"
             }
           ]
         }

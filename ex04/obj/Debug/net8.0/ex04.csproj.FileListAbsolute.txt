@@ -1,0 +1,15 @@
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\bin\Debug\net8.0\ex04.exe
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\bin\Debug\net8.0\ex04.deps.json
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\bin\Debug\net8.0\ex04.runtimeconfig.json
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\bin\Debug\net8.0\ex04.dll
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\bin\Debug\net8.0\ex04.pdb
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.AssemblyInfoInputs.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.AssemblyInfo.cs
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.sourcelink.json
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.dll
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\refint\ex04.dll
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.pdb
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ex04.genruntimeconfig.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex04\obj\Debug\net8.0\ref\ex04.dll
