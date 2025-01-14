@@ -1,0 +1,5 @@
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex05\obj\Debug\net8.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex05\obj\Debug\net8.0\ex05.AssemblyInfoInputs.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex05\obj\Debug\net8.0\ex05.AssemblyInfo.cs
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex05\obj\Debug\net8.0\ex05.csproj.CoreCompileInputs.cache
+C:\Users\eriberto.dpereira\source\repos\logica de progamacao tarde ter quinta\ex05\obj\Debug\net8.0\ex05.sourcelink.json
