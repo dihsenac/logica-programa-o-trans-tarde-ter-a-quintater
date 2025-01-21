@@ -1,0 +1,15 @@
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\bin\Debug\net8.0\test_github.exe
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\bin\Debug\net8.0\test_github.deps.json
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\bin\Debug\net8.0\test_github.runtimeconfig.json
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\bin\Debug\net8.0\test_github.dll
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\bin\Debug\net8.0\test_github.pdb
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.AssemblyInfoInputs.cache
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.AssemblyInfo.cs
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.csproj.CoreCompileInputs.cache
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.sourcelink.json
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.dll
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\refint\test_github.dll
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.pdb
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\test_github.genruntimeconfig.cache
+C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\obj\Debug\net8.0\ref\test_github.dll

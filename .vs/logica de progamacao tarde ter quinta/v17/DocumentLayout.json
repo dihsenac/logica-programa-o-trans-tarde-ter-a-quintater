@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\",
+  "WorkspaceRootPath": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3BFB41F-D3B9-419E-9BC5-7CF4F24DCE28}|ex07\\ex07.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB2962D9-B3E3-4009-AEFF-B27112ADD320}|test_github\\test_github.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\test_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2962D9-B3E3-4009-AEFF-B27112ADD320}|test_github\\test_github.csproj|solutionrelative:test_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BFB41F-D3B9-419E-9BC5-7CF4F24DCE28}|ex07\\ex07.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3BFB41F-D3B9-419E-9BC5-7CF4F24DCE28}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E47CF37-108A-413C-B06F-C2C133D6A46D}|ex06\\ex06.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E47CF37-108A-413C-B06F-C2C133D6A46D}|ex06\\ex06.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E47CF37-108A-413C-B06F-C2C133D6A46D}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDA092B-1E65-499A-A1B9-89793ED26753}|ex05\\ex05.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BDA092B-1E65-499A-A1B9-89793ED26753}|ex05\\ex05.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BDA092B-1E65-499A-A1B9-89793ED26753}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673A45F7-1303-4EAE-9549-F84562727ADC}|ex04\\ex04.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673A45F7-1303-4EAE-9549-F84562727ADC}|ex04\\ex04.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673A45F7-1303-4EAE-9549-F84562727ADC}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A447AA-ADCE-4390-AB5A-77D126CB92EB}|ex03\\ex03.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A447AA-ADCE-4390-AB5A-77D126CB92EB}|ex03\\ex03.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A447AA-ADCE-4390-AB5A-77D126CB92EB}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59326758-7545-4789-9631-1615D2F60524}|ex02\\ex02.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59326758-7545-4789-9631-1615D2F60524}|ex02\\ex02.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59326758-7545-4789-9631-1615D2F60524}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE21A98-104B-4FCA-8BFA-572D6CCFBEB8}|ex01\\ex01.csproj|c:\\users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE21A98-104B-4FCA-8BFA-572D6CCFBEB8}|ex01\\ex01.csproj|c:\\users\\eriberto.dpereira\\documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE21A98-104B-4FCA-8BFA-572D6CCFBEB8}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +48,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex07\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\test_github\\Program.cs",
+              "RelativeDocumentMoniker": "test_github\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\test_github\\Program.cs",
+              "RelativeToolTip": "test_github\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:47:36.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex07\\Program.cs",
               "RelativeDocumentMoniker": "ex07\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex07\\Program.cs",
               "RelativeToolTip": "ex07\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex06\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex06\\Program.cs",
               "RelativeDocumentMoniker": "ex06\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex06\\Program.cs",
               "RelativeToolTip": "ex06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex05\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex05\\Program.cs",
               "RelativeToolTip": "ex05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex04\\Program.cs",
               "RelativeToolTip": "ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex03\\Program.cs",
               "RelativeToolTip": "ex03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex02\\Program.cs",
               "RelativeToolTip": "ex02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
-              "ToolTip": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex01\\Program.cs",
               "RelativeToolTip": "ex01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

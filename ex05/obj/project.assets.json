@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex05\\ex05.csproj",
+      "projectUniqueName": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex05\\ex05.csproj",
       "projectName": "ex05",
-      "projectPath": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex05\\ex05.csproj",
+      "projectPath": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex05\\ex05.csproj",
       "packagesPath": "C:\\Users\\eriberto.dpereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriberto.dpereira\\source\\repos\\logica de progamacao tarde ter quinta\\ex05\\obj\\",
+      "outputPath": "C:\\Users\\eriberto.dpereira\\Documents\\logica-programa-o-trans-tarde-ter-a-quintater\\ex05\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
