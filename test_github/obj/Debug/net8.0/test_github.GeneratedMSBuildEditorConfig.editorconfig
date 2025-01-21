@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = test_github
-build_property.ProjectDir = C:\Users\eriberto.dpereira\Documents\logica-programa-o-trans-tarde-ter-a-quintater\test_github\
+build_property.ProjectDir = C:\Users\eriberto.dpereira\source\repos\logica-programa-o-trans-tarde-ter-a-quintater\test_github\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
